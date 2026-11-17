@@ -3,7 +3,7 @@ name = "SigmaOS-networkmanager-openvpn"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "networkmanager-openvpn component"
+description = "SigmaOS SigmaOS-networkmanager-openvpn component"
 upstream = []
 
 [contract]
